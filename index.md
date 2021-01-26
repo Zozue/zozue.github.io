@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/Zozue/zozue.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Josh Loke is a prospective software developer with a materials engineering background.
 
-### Markdown
+Josh graduated from the B.Eng Materials Engineering Co-op at McGill University in Montreal, Quebec, during which he obtained a total of 1 year of engineering co-op experience with 4 months at Infasco and 8 months at JFE Steel. At these placements, he learned valuable material characterization techniques, 3D modelling skills, research protocols and how to run complex physics simulations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After graduation, he was a Production Support Analyst at Morgan Stanley for 2 years, where he worked closely with both the developers and the operation teams to ensure the production environment was running smoothly. There, he supported a number of internally developed collateral management and margin call applications.
 
-```markdown
-Syntax highlighted code block
+At Morgan Stanley, he had the opportunity to work with technologies such as Sybase SQL servers, IBM DB2 SQL servers, Unix administration, bash and ksh shell scripting, python, javascript, and more.
 
-# Header 1
-## Header 2
-### Header 3
+After 2 years at Morgan Stanley, Josh decided to further his software development skillset by joining FDM Groups Java Development training.
 
-- Bulleted
-- List
+## Projects
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zozue/zozue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   1. Web-based Clipboard OCR
+   
+      a. [DevPost](https://devpost.com/software/web-based-clipboard-ocr)
+      
+      b. [Try it out here!](tesseractCodepen.html)
+      
+   2. Stopwatch
+   
+   3. Dead Pixel Friend 
+   
+      a. [CodePen Sample](https://codepen.io/zozue/pen/bGdRROp)
